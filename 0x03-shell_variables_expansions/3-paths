@@ -1,0 +1,2 @@
+#!/bin/bash
+echo SBATH | tr ":" "\n" | wc -l
